@@ -5,10 +5,6 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-<!-- Project Document>
-https://id.atlassian.com/invite/p/confluence?id=biO02oMNSxymxCLGGVCDXw&cloudId=8c6e6e2f-0444-4722-983c-0711848dbbf7
--->
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -77,6 +73,8 @@ https://id.atlassian.com/invite/p/confluence?id=biO02oMNSxymxCLGGVCDXw&cloudId=8
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
+
+https://id.atlassian.com/invite/p/confluence?id=biO02oMNSxymxCLGGVCDXw&cloudId=8c6e6e2f-0444-4722-983c-0711848dbbf7
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
