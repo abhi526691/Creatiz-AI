@@ -1,0 +1,46 @@
+# Byte-code files
+*.pyc
+__pycache__/
+
+.env*
+# Virtual environment
+.venv/
+.env/*
+env/
+venv/
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*.bak
+*~
+
+# Test files
+.pytest_cache/
+.coverage
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+wheels/
+*.whl
+
+# Log files
+*.log
+
+# Database files
+*.sqlite3
+*.db
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+# Miscellaneous
+tmp/
