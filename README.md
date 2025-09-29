@@ -1,3 +1,3 @@
-Backend - FastAPI
-LLM Model - Groq(https://console.groq.com/)
-Database - Mongodb Atlas
+- Backend = FastAPI
+- LLM Model = Groq(https://console.groq.com/)
+- Database = Mongodb Atlas
